@@ -1,4 +1,4 @@
-# NTP Server Monitoring with Zabbix
+[# NTP Server Monitoring with Zabbix
 
 This guide will help you set up a Python script that checks the availability and response time of an NTP server and integrates it with Zabbix for monitoring.
 
@@ -85,4 +85,4 @@ When the script is run via the Zabbix Agent, it will execute with the same permi
 
 ## Conclusion
 
-You've now set up monitoring of an NTP server's availability and response time using a Python script and Zabbix. This will give you insight into your NTP server's performance and alert you if it becomes unavailable.
+You've now set up monitoring of an NTP server's availability and response time using a Python script and Zabbix. This will give you insight into your NTP server's performance and alert you 
